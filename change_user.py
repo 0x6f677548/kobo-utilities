@@ -5,7 +5,7 @@
 #3. restores the backup to the Kobo device
 #4. merges the backup of the KoboReader.sqlite database with the new user account
 #5. restores the merged KoboReader.sqlite database to the Kobo device
-# author: 0x6f677548
+# author: Hugo Batista
 
 
 import argparse
